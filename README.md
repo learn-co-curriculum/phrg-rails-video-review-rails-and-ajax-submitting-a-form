@@ -37,3 +37,4 @@ Do you think this video would be better if it were somewhere else in the curricu
 Any other comments or feedback you have? Raise an issue and let us know. 
 
 <p class='util--hide'>View <a href='https://learn.co/lessons/rails-video-review-rails-and-ajax-submitting-a-form'>Rails Video Review: Rails and AJAX, Submitting a Form </a> on Learn.co and start learning to code for free.</p>
+<p data-visibility='hidden'>PHRG Rails and AJAX, Submitting a Form- Overview</p>
